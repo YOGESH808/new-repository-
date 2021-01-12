@@ -1,0 +1,1 @@
+hello2.txt is also opened using cmd command
